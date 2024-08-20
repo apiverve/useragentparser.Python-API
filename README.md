@@ -83,7 +83,8 @@ print(result)
     },
     "device": {},
     "cpu": {}
-  }
+  },
+  "code": 200
 }
 ```
 
